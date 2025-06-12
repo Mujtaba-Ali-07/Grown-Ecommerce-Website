@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+.container{
+  align-items: center;
+  padding: 1rem;
+}
+input{
+  background: white;
+  color: gray;
+}
+.navbar-container{
+   padding: 1rem;
+}
+
+@media screen and (min-width: 640px) {
+  .container {
+    padding: 2rem;
+  }
+  
+}
+@media screen and (min-width: 768px) {
+  .container {
+    padding: 3rem;
+  }
+  
+}
