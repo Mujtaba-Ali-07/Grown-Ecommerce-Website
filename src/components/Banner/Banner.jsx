@@ -1,5 +1,5 @@
 import React from "react";
-import BannerImg from "../../assets/women/women5.png";
+import BannerImg from "../../assets/women/women-5.png";
 import { GrSecure } from "react-icons/gr";
 import { IoFastFood } from "react-icons/io5";
 import { GiFoodTruck } from "react-icons/gi";
