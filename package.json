@@ -1,5 +1,4 @@
 {
-  "homepage": "https://mujtaba-ali-07.github.io/Grown-Ecommerce-Website/",
   "name": "grown-ecommerce-website",
   "private": true,
   "version": "0.0.0",
@@ -8,10 +7,8 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "predeploy": "npm run build",
-    "preview": "vite preview",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "preview": "vite preview"
+
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.9",
